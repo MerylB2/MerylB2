@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MerylB2
 - 👀 I’m interested in Robotics and Tech Fields
 - 🌱 I’m currently learning Data Analystics
-- 💞️ I’m looking to collaborate on any projects realating to python, AI? robotics or electronics
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any projects related to python, AI? robotics or electronics
+- 📫 How to reach me : claudinebitee@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm a techmom
 
