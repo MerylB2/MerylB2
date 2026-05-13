@@ -1,4 +1,4 @@
-# Méryl Bitée
+# Méryl BITEE
 
 Engineer in electronics, robotics and industrial computing.
 
