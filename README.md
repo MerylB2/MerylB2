@@ -1,8 +1,41 @@
-- Hi, I’m @Meryl
-- I’m interested in Robotics and Tech Fields
-- I’m currently learning Dev_Coding
-- I’m looking to collaborate on any projects related to python, AI? robotics or electronics
-- How to reach me : claudinebitee@gmail.com
+# Méryl Bitée
+
+Engineer in electronics, robotics and industrial computing.
+
+Currently studying software engineering at 42 Paris and preparing research-oriented projects in AI, robotics and simulation.
+
+## Interests
+
+- Soft robotics
+- AI for robotics
+- Digital twins
+- Embedded systems
+- Simulation and control
+- C/C++ systems programming
+
+## Current focus
+
+Building projects around:
+- SOFA simulation
+- reinforcement learning
+- robotics AI agents
+- embedded systems
+
+## Tech stack
+
+C • C++ • Python • Linux • Docker • Git • Embedded Systems • Robotics
+
+## Selected projects
+
+### LeRobot Experiments
+Experiments around robotics AI and HuggingFace LeRobot ecosystem.
+
+### Embedded Systems Projects
+Microcontroller and embedded programming projects.
+
+### 42 Projects
+Low-level systems programming projects in C/C++.
+
 
 <!---
 MerylB2/MerylB2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
