@@ -1,8 +1,8 @@
 # Méryl BITEE
 
-Engineer in electronics, robotics and industrial computing.
+Engineer in electronics, robotics, and embedded systems.
 
-Currently studying software engineering at 42 Paris and developing research-oriented projects in AI for robotics, simulation and embedded systems..
+Currently studying software engineering at 42 Paris and developing research-oriented projects in AI for robotics, simulation, and embedded systems.
 
 ## Interests
 
@@ -23,9 +23,13 @@ Building projects around:
 
 ## Tech stack
 
-C • C++ • Python • Linux • Docker • Git • Embedded Systems • Robotics
+🔵 C • 🔷 C++ • 🟡 Python • 🟢 Linux • 🔵 Docker • 🟠 Git • 🔴 Embedded Systems • 🟣 Robotics
 
 ## Selected projects
+
+### [AI Soft Twin Agent](https://github.com/MerylB2/ai-soft-twin-agent)
+
+Research-oriented experiments combining reinforcement learning, soft robotics simulation, and digital twin systems.
 
 ### [LeRobot Experiments](https://github.com/MerylB2/robotics-ai-lerobot)
 
