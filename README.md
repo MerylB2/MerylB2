@@ -2,7 +2,7 @@
 
 Engineer in electronics, robotics and industrial computing.
 
-Currently studying software engineering at 42 Paris and preparing research-oriented projects in AI, robotics and simulation.
+Currently studying software engineering at 42 Paris and developing research-oriented projects in AI for robotics, simulation and embedded systems..
 
 ## Interests
 
@@ -27,11 +27,17 @@ C • C++ • Python • Linux • Docker • Git • Embedded Systems • Robot
 
 ## Selected projects
 
-### LeRobot Experiments
+### [LeRobot Experiments](https://github.com/MerylB2/robotics-ai-lerobot)
+
 Experiments around robotics AI and HuggingFace LeRobot ecosystem.
 
-### Embedded Systems Projects
+### [Embedded Systems Projects](https://github.com/MerylB2/embedded-systems-projects)
+
 Microcontroller and embedded programming projects.
+
+### [SOFA Soft Robotics](https://github.com/MerylB2/sofa-soft-robotics-sim)
+
+Minimal SOFA simulation project exploring deformable models and soft robotics simulation.
 
 ### 42 Projects
 Low-level systems programming projects in C/C++.
